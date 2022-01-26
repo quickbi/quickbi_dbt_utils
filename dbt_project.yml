@@ -2,7 +2,7 @@ name: "quickbi_dbt_utils"
 config-version: 2
 version: "0.0.4"
 
-require-dbt-version: ">=0.18.0"
+require-dbt-version: ">=1.0.0"
 
 macro-paths: ["macros"]
 
